@@ -58,4 +58,4 @@ Selected libraries were used for microbiome profiling using the Greengenes pipel
 
 ```
 
-6. Post-processing with qiime was conducted with script 
+6. Post-processing with qiime was conducted with script qiime2_after_woltka_wLoops.sh
