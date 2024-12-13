@@ -9,6 +9,7 @@ Selected libraries were used for microbiome profiling using the Greengenes pipel
 1. [Greengenes in RNA central](https://rnacentral.org/expert-database/greengenes)
 2. [Greengenes2 paper in Nat. Biotech.](https://www.nature.com/articles/s41587-023-01845-1)
 3. [Woltka paper](https://journals.asm.org/doi/10.1128/msystems.00167-22)
+4. [Greengenes database repo](https://ftp.microbio.me/greengenes_release/current/)
 
 ### Data processing
 
