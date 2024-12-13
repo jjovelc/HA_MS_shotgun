@@ -42,6 +42,7 @@ Selected libraries were used for microbiome profiling using the Greengenes pipel
 		--rank   phylum,family,genus,species \
 		--output tax_output
 		--sizes length.map
+		# length.map file was already in the Greengenes files
 ```
 
 5. Functional classification of reads was conducted with Woltka
